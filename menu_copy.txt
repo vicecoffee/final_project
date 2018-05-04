@@ -1,0 +1,56 @@
+1,1,BREAKFAST,BREAKFAST,section,BREAKFAST
+2,1,BREAKFAST,BREAKFAST,body,"All prices are per person (pp). Minimum of 10 servings, unless otherwise marked."
+3,1,BREAKFAST ENHANCEMENTS,BREAKFAST ENHANCEMENTS,section,BREAKFAST ENHANCEMENTS
+4,2,BEVERAGES,BEVERAGES,section,BEVERAGES
+5,3,LUNCH,LUNCH,super section,LUNCH
+6,3,LUNCH,LUNCH,body,All prices are per person. Minimum of 10 servings.
+7,3,LUNCH SANDWICH,LUNCH,section,SEBASTIAN?S SANDWICH SELECTIONS
+8,3,LUNCH SANDWICH,LUNCH SANDWICH,body,Choose from our Classic or Signature Sandwich Selections. Enjoy your sandwich as a Grab & Go Tote Bag or a Luncheon Buffet.
+9,3,LUNCH SANDWICH,LUNCH SANDWICH,body,Classic Sandwiches served on assorted Bakery Fresh Breads:
+10,3,LUNCH SANDWICH,LUNCH SANDWICH BOX,body,"Grab & Go Tote  includes your choice of Classic Sandwich, Bag of Chips, Cookie, Fresh Fruit & a Chocolate"
+11,3,LUNCH SANDWICH,LUNCH SANDWICH BUFFET,body,"Luncheon Buffet  includes your choice of Classic Sandwiches, Bags of Chips, Cookie & Brownie Platter and your choice of two of the following salads :"
+12,3,LUNCH WRAP,LUNCH WRAP, body,Signature Wraps on Assorted Flavored Tortillas:
+13,3,LUNCH WRAP,LUNCH WRAP BOX,body,"Includes Your Choice of Signature Sandwich, Bag of Chips, Cookie and your choice of one of the following salads:"
+14,3,LUNCH WRAP,LUNCH WRAP BUFFET,body,"Includes your choice of Signature Sandwiches, Bag of Chips, Cookie & Brownie Platter and your choice of two of the following salads:"
+15,3,LUNCH SALAD,LUNCH,section,SALADS OF THE SEASON
+16,3,LUNCH SALAD,LUNCH SALAD BOX,body,Boxed Salads Includes Whole Wheat Pita and a Cookie
+17,3,LUNCH SALAD,LUNCH SALAD BUFFET,body,"Buffet Salads include: Whole Wheat Pita, Cookie or Brownie and a choice of two of the Side Salads listed below:"
+18,3,COLD LUNCH BUFFET,COLD LUNCH BUFFET,section,COLD LUNCH BUFFET
+19,3,COLD LUNCH BUFFET,COLD LUNCH BUFFET,body,All prices are per person (pp). Minimum of 10 servings.
+20,3,COLD LUNCH BUFFET,COLD LUNCH BUFFET,foot,Substitute Grilled Tofu Steak for Grilled Chicken upon Request
+21,3,HOT LUNCH BUFFET,HOT LUNCH BUFFET,section,HOT LUNCH BUFFET
+22,3,HOT LUNCH BUFFET,HOT LUNCH BUFFET,body,All prices are per person. Minimum of 10 servings.
+23,3,HOT LUNCH BUFFET,HOT LUNCH BUFFET,foot,Please inquire about our Seasonal Plated Luncheons!
+24,4,PIZZA,PIZZA,super section,PIZZA
+25,4,PIZZA,PIZZA,section,PIZZA (8 SLICES)*
+26,4,PIZZA,PIZZA,foot,* Whole Grain Pizza Dough available upon request
+27,5,SNACKS,SNACK BREAK,section,AFTERNOON BREAKS & SWEET TREATS
+28,5,SNACKS,SNACK BREAK,body,All prices are per person. Minimum of 10 servings.
+29,5,SNACKS,NIBBLES,section,SWEET & SAVORY NIBBLES
+30,5,SNACKS,NIBBLES,body,All prices are per person. Minimum of 10 servings.
+31,6,CAKES,CAKE,section,SPECIAL OCCASION CAKES
+32,6,CAKES,CAKE,body,All are vegetarian and serve 30 people.
+33,6,CAKES,CAKE,body,3 business day notice required.
+34,6,CAKES,CAKE,foot,For larger or specialty cakes please inquire about pricing.
+35,7,HORS D?OEUVRES,HORS D'OEUVRES,super section,PARTIES & EVENTS
+36,7,HORS D?OEUVRES,HORS D'OEUVRES,section,HORS D?OEUVRES
+37,7,HORS D?OEUVRES,HORS D'OEUVRES,body,The following are priced per piece and can be served either passed or stationery.
+38,7,HORS D?OEUVRES,HORS D'OEUVRES,body,We request a minimum of 25 pieces per type of hors d?oeuvres. Hot hors d?oeuvres require an attendant.
+39,7,HORS D?OEUVRES,HOT APPS,section,HOT HORS D?OEUVRES
+40,7,HORS D?OEUVRES,COLD APPS,section,COLD HORS D? OEUVRES
+41,7,HORS D?OEUVRES,COLD APPS,body,"50 piece minimum for each type, 48 hours notice required."
+42,7,HORS D?OEUVRES,APP DISPLAY,section,STATIONARY RECEPTION DISPLAY
+43,7,HORS D?OEUVRES,APP DISPLAY,body,"All prices are per person. Minimum of 10 servings, unless otherwise noted."
+44,7,HORS D?OEUVRES,CHEF DISPLAY,section,CHEF?S TABLE DISPLAY COOKING STATIONS
+45,7,HORS D?OEUVRES,CHEF DISPLAY,foot,Chef Fee  275.00
+46,8,BUDGET,BUDGET,super section,SEBASTIAN?S BUDGET FRIENDLY CATERING MENU
+47,8,BUDGET,BUDGET,body,Our menu is designed to be delivered fresh and hot from our ovens to your office. Please know we will not provide any pick up service. You will be responsible for removing and disposing of all items at the conclusion of your event.
+48,8,BUDGET,BUDGET,body,"This menu is available during the business week, Monday through Friday. Please refer to our catering terms and conditions to review all policies, billing and pricing structure."
+49,8,BUDGET,BUDGET,body,Please note that prices are subject to change.
+50,8,BUDGET,BUDGET HOT ENTREES,section,CHEF?S HOT ENTREES
+51,8,BUDGET,BUDGET HOT ENTREES,body,Entr?es serve 10 people. All served with Wheat Rolls & Butter. Delivered in foil pans.
+52,8,BUDGET,BUDGET SALADS,section,SALADS
+53,8,BUDGET,BUDGET SALADS,body,Salads serve 10 people.
+54,8,BUDGET,BUDGET SNACKS,section,TREATS & SWEETS
+55,8,BUDGET,BUDGET SIDES,section,CHEF?S ENHANCEMENTS
+56,8,BUDGET,BUDGET SIDES,body,Enhancements serve 10 people.

@@ -1,0 +1,242 @@
+1,BREAKFAST,BREAKFAST,"Vegetable, Cheddar & Herb Frittata (v)",8.95,"Cage-Free Eggs blended and baked with Seasonal Vegetables, Cheddar Cheese & Fresh Herbs, served with Mini Croissants & Seasoned Home Fries",0,,,,1010
+
+2,BREAKFAST,BREAKFAST,"Ham, Cheddar & Herb Frittata",9.25,"Cage-Free Eggs blended and baked with Country Smoked Ham, Cheddar Cheese & Fresh Herbs, served with Mini Croissants & Seasoned Home Fries",0,,,,1010
+
+3,BREAKFAST,BREAKFAST,Traditional American Breakfast,8.95,"Fluffy Scrambled Cage-Free Eggs with Fresh Herbs and your choice of Crispy Bacon or Chicken Sausage, served with Mini Croissants & Seasoned Homefries",0,,,,1010
+
+4,BREAKFAST,BREAKFAST,Healthy Start  (v),9.75,"Fresh Fruit Salad, Crunchy Granola, Non-Fat Greek Yogurt, Assorted Muf_fins (to include Bran), Peet_s Premier Brewed Coffee & Tea Selections",0,,,,
+
+5,BREAKFAST,BREAKFAST,Continental Breakfast  (v),7.25,"Start Your Day with Freshly Baked Muffins, Bagels, Tea Breads and Mini Croissants, Accompanied with Butter, Jam & Cream Cheese, Assorted Chilled Juices & Peet_s Premier Brewed Coffee and Tea Selections",1,,,,1010
+
+6,BREAKFAST,BREAKFAST ENHANCEMENTS,Seasonal Whole Fruit (v),1.4,,0,,,,
+
+7,BREAKFAST,BREAKFAST ENHANCEMENTS,Assorted Cereal & Milk (v),2.35,,0,,,,
+
+8,BREAKFAST,BREAKFAST ENHANCEMENTS,Greek Yogurt & Crunchy Granola  (v),2.5,,0,,,,
+
+9,BREAKFAST,BREAKFAST ENHANCEMENTS,Individual Yogurts  (v),1.75,,0,,,,
+
+10,BREAKFAST,BREAKFAST ENHANCEMENTS,Individual Chobani Yogurts  (v),2.65,,0,,,,
+
+11,BREAKFAST,BREAKFAST ENHANCEMENTS,Mini Quiche  (v) ,1.6,Minimum of 25 pieces,0,,,,
+
+12,BREAKFAST,BREAKFAST ENHANCEMENTS,Granola Bars (v),1,,0,,,,
+
+13,BREAKFAST,BREAKFAST ENHANCEMENTS,Assorted Mini Scones  with Butter & Jam (v),1.5,,0,,,,
+
+14,BREAKFAST,BREAKFAST ENHANCEMENTS,Mini Croissants (v),1.75,,0,,,,
+
+15,BREAKFAST,BREAKFAST ENHANCEMENTS,Cinnamon Swirl Coffee Cake (v),2.1,,0,,,,
+
+16,BREAKFAST,BREAKFAST ENHANCEMENTS,Assorted Freshly Baked Muffin (v),2.35,,0,,,,
+
+17,BREAKFAST,BREAKFAST ENHANCEMENTS,Bagels & Cream Cheese  (v),1.95,,0,,,,
+
+18,BREAKFAST,BREAKFAST ENHANCEMENTS,Belvita Breakfast Snack (v),2.1,,0,,,,
+
+19,BREAKFAST,BREAKFAST ENHANCEMENTS,Fruit Salad (vgn),3.75,,0,,,,
+
+20,BREAKFAST,BREAKFAST ENHANCEMENTS,Steel Cut Oats (vgn),3,"with Assorted Toppings of: Raisins, Brown Sugar & Cranberries",0,,,,
+
+21,BREAKFAST,BREAKFAST ENHANCEMENTS,Kashi Pilaf Hot Cereal (vgn),3,"with Assorted Toppings of: Raisins, Brown Sugar & Cranberries",0,,,,
+
+22,BEVERAGES,BEVERAGES,Peet_s Brewed Coffee & Tea Selections,2.5,,0,,,,
+
+23,BEVERAGES,BEVERAGES,Assorted Chilled Juices,1.75,,0,,,,
+
+24,BEVERAGES,BEVERAGES,Sparkling or Still Waters,1.75,,0,,,,
+
+25,BEVERAGES,BEVERAGES,Assorted Cold Sodas,1.4,,0,,,,
+
+26,LUNCH,LUNCH SANDWICH,Classic Sandwich Tote Bag,11.25,,1,300,,,
+
+27,LUNCH,LUNCH SANDWICH,Classic Sandwich Buffet,15.25,,1,300,,99,
+
+28,LUNCH,LUNCH WRAP,Signature Wrap Tote Bag,11.95,,1,301,,99,
+
+29,LUNCH,LUNCH WRAP,Signature Wrap Buffet,15.25,,1,301,,99,
+
+30,LUNCH,LUNCH SALAD BOX,Salad Box,9.95-14.25,,1,,302,,
+
+31,LUNCH,LUNCH SALAD BUFFET,Salad Buffet,12.50-14.95,,1,,303,999,
+
+32,LUNCH,COLD LUNCH BUFFET,Spa Luncheon,12.75,"Marinated Grilled Chicken Breast topped with a Zesty Pineapple Chili Salsa, accompanied by Seasonal Grilled Vegetables & Chef_s Grain Salad of the Day, served with Whole Wheat Pita & Olive Oil",0,,,,3045
+
+33,LUNCH,COLD LUNCH BUFFET,Baja Salad ,,"Spinach topped with Black Beans, Scallions, Tomatoes, Avocado & Shredded Cheddar Cheese, garnished with Tortilla Strips, served with Spicy Ranch Dressing",1,,304,,3045
+
+34,LUNCH,COLD LUNCH BUFFET,Roasted Glazed Salmon,13.5,"Roasted Salmon with Citrus Balsamic Glaze, served with Shaved Broccoli Slaw, Brown Rice Salad and Whole Wheat Pita",0,,,,3045
+
+35,LUNCH,HOT LUNCH BUFFET,Mediterranean Grilled Chicken,14.5,"Greek Salad with Tomatoes, Cucumbers, Red Onions, Queen Olives and Feta Cheese (v), Mediterranean Grilled Chicken with Sun-Dried Tomatoes, Spinach, Sweet Garlic and Basil Seasonal Squash, Red Peppers & Artichoke Hearts (v), Brown Rice Pilaf (v), Whole Wheat Pita",0,,,,3045
+
+36,LUNCH,HOT LUNCH BUFFET,Orange Agave Grilled Salmon ,15.75,"Spinach Salad with Mandarin Oranges, Red Onions & Crispy Wontons with Kimchi Vinaigrette Orange Agave Grilled Sustainable Salmon Filet with Scallions Gingered Brown Basmati Rice (v), Chili Oil Seared Green Beans with Shiitake Mushrooms (v), Whole Wheat Pita",0,,,,3045
+
+37,LUNCH,HOT LUNCH BUFFET,Multi Grain Pasta Primavera (V),12,"Crispy Greens with Tomatoes, Cucumbers and Carrots with Sun-Dried Tomato Vinaigrette, Multigrain Pasta Primavera Tossed with Seasonal Vegetables, Olive Oil, Parmesan Cheese and Fresh Herbs, Whole Wheat Pita",1,,305,,3045
+
+38,LUNCH,HOT LUNCH BUFFET,Whole Wheat Penne Pasta with Broccoli  (v),10.5,"Crispy Greens with Roasted Mushrooms, Red Peppers, Red Onions & Balsamic Vinaigrette (v), Whole Wheat Penne Pasta and Broccoli tossed with Garlic, Olive Oil, Fresh Basil & Parmesan Cheese  and Whole Wheat Pita",1,,305,,3045
+
+39,PIZZA,PIZZA,Cheese  (v),13,,1,,,,400
+
+40,PIZZA,PIZZA,Pepperoni,13.75,,1,,,,400
+
+41,PIZZA,PIZZA,Sausage,13.75,,1,,,,400
+
+42,PIZZA,PIZZA,Grilled Mushrooms  (v),13.5,,1,,,,400
+
+43,PIZZA,PIZZA,Grilled Peppers & Onions  (v),13.75,,1,,,,400
+
+44,PIZZA,PIZZA,"Margherita  (v) Fresh Mozzarella, Tomato & Basil",14.95,,1,,,,400
+
+45,PIZZA,PIZZA,Pesto Chicken,14.95,,1,,,,400
+
+46,PIZZA,PIZZA,Special of the Day,14.95,,1,,,,400
+
+47,PIZZA,PIZZA,"White  (v) Ricotta, Mozzarella & Provolone Cheese",14.95,,1,,,,400
+
+48,PIZZA,PIZZA,Buffalo Chicken with Blue Cheese,14.95,,1,,,,400
+
+49,PIZZA,PIZZA,"Spinach, Artichoke, Feta & Onion",14.95,,1,,,,400
+
+50,SNACKS,SNACK BREAK,Classic Afternoon Tea (v),10.25,"Minimum of 15 servings: Premier Tea Selection with thinly sliced Lemon, accompanied by Mini Scones (1pp), Assorted Mini Sandwiches (2pp), Mini Pastries (1pp), Jams & Whipped Butter ",0,,,,
+
+51,SNACKS,SNACK BREAK,Sweet & Salty Break (v),3.25,Assorted Bags of Salty Snacks & Sweet Snack Size Candies,0,,,,
+
+52,SNACKS,SNACK BREAK,Domestic Cheese Platter  (v),3.75,"Minimum of 10 servings: Cubed Domestic Cheese garnished with Grapes & Strawberries, served with Assorted Crackers",0,,,,
+
+53,SNACKS,SNACK BREAK,Traditional Crudit‚s  (vgn),3.9,Crisp Garden Vegetables with Hummus,0,,,,
+
+54,SNACKS,SNACK BREAK,Dried Fruit & Nuts  (vgn),6.95,"Selection of Cashews, Pecans, Walnuts, Almonds with Dried Apricots, Raisins & Cranberries",0,,,,
+
+55,SNACKS,SNACK BREAK,Warm Artichoke & Spinach Dip (v),4.5,with Specialty Crackers & Sliced Baguette,0,,,,
+
+56,SNACKS,NIBBLES,Freshly Baked Cookie,1.75,,0,,,,
+
+57,SNACKS,NIBBLES,Assorted Brownies,1.95,,0,,,,
+
+58,SNACKS,NIBBLES,Assorted Specialty Bars,2.1,,0,,,,
+
+59,SNACKS,NIBBLES,Hummus & Pita Chips,3.5,,0,,,,
+
+60,SNACKS,NIBBLES,Tortilla Chips & Salsa,3.25,,0,,,,
+
+61,SNACKS,NIBBLES,Mixed Nuts,2.9,,0,,,,
+
+62,SNACKS,NIBBLES,Fancy Assorted Tea Cookies,1.75,(minimum 3 dozen),0,,,,
+
+63,CAKE,CAKE,Vanilla Cake,85,,0,,,,
+
+64,CAKE,CAKE,Lemon Chiffon Cake ,85,,0,,,,
+
+65,CAKE,CAKE,Chocolate Raspberry,85,,0,,,,
+
+66,HORS D_OEUVRES,HOT APPS,Buffalo Chicken Spring Rolls with Blue Cheese Dipping Sauce,2.5,,0,,,,
+
+67,HORS D_OEUVRES,HOT APPS,Risotto Arancini with Pesto Oil  (v),1.75,,0,,,,
+
+68,HORS D_OEUVRES,HOT APPS,Crispy Cheese Ravioli with Marinara,1.75,,0,,,,
+
+69,HORS D_OEUVRES,HOT APPS,Chicken Quesadilla with Avocado Dip,2.5,,0,,,,
+
+70,HORS D_OEUVRES,HOT APPS,Spinach & Cheese Spanikopita  (v)    ,1.75,,0,,,,
+
+71,HORS D_OEUVRES,HOT APPS,Wild Mushroom Empanadas  (v),2.25,,0,,,,
+
+72,HORS D_OEUVRES,HOT APPS,Maryland Crab Cakes with Lemon Dill A‹oli,2.5,,0,,,,
+
+73,HORS D_OEUVRES,HOT APPS,Coconut Chicken with Mango Salsa,2.25,,0,,,,
+
+74,HORS D_OEUVRES,HOT APPS,Scallops Wrapped in Bacon,2.25,,0,,,,
+
+75,HORS D_OEUVRES,COLD APPS,"California Rolls with Soy Sauce, Wasabi & Pickled Ginger (v)",3.75,,0,,,,
+
+76,HORS D_OEUVRES,COLD APPS,Smoked Salmon Rosette on Pumperknickel Canap‚,3,,0,,,,
+
+77,HORS D_OEUVRES,COLD APPS,Quinoa Bruschetta with Balsamic Glaze  (v),3.8,,0,,,,
+
+78,HORS D_OEUVRES,COLD APPS,Cherry Tomato stuffed with Hummus  (v),3.25,,0,,,,
+
+79,HORS D_OEUVRES,COLD APPS,Tomato Canap‚ with Pesto,3.5,,0,,,,
+
+80,HORS D_OEUVRES,COLD APPS,Mini BLT on Brioche,3.25,,0,,,,
+
+81,HORS D_OEUVRES,COLD APPS,Artichoke Bottom with Crab Salad,3.5,,0,,,,
+
+82,HORS D_OEUVRES,APP DISPLAY,Crimson Brie en Cro–te  (v),85,"Serves 20: Baked Triple Cr_me Brie filled with Spiced Pears & Cranberries, wrapped in Flaky Puff Pastry and served with Sliced Baguettes & Crispy Crackers ",0,,,,
+
+83,HORS D_OEUVRES,APP DISPLAY,Vegetarian Antipasto Display,9.95,"A bounty of Roasted Mushrooms, Artichoke Hearts, Roasted Peppers, Marinated Olives, Fresh Mozzarella, Tomatoes & Grilled Eggplant served over Field Greens drizzled with Balsamic Vinaigrette, served with Sliced Baguette",1,,,,702
+
+84,HORS D_OEUVRES,APP DISPLAY,Cheese Platter  (v),7.5,"Wedges of Imported & Domestic Cheeses, garnished with Grapes & Strawberries, served with Crispy Crackers & Sliced Baguette",0,,,,
+
+85,HORS D_OEUVRES,APP DISPLAY,Crudit‚s & Dips  (v),6.5,"15 person minimum:  Crisp Vegetable display to include Asparagus Spears, Carrots, Sugar Snap Peas, Julienned Peppers and Cherry Tomatoes, served with Herbed Ranch Dip & a Red Pepper Hummus Dip",0,,,,
+
+86,HORS D_OEUVRES,APP DISPLAY,Mediterranean Display  (v),9.5,"Hummus & Tabbouleh, Cucumber Rounds, Carrot Sticks, Celery Sticks, Greek Olives & Toasted Pita Chips ",0,,,,
+
+87,HORS D_OEUVRES,APP DISPLAY,Southwestern Chips & Dips Display  (v),5.95,"Tri-Color Tortilla Chips served with Salsa, Guacamole & Sour Cream with Scallions ",0,,,,
+
+88,HORS D_OEUVRES,APP DISPLAY,Seasonal Sliced Fruit  (v),3.75,Garnished with Grapes & Strawberries ,0,,,,
+
+89,HORS D_OEUVRES,CHEF DISPLAY,Pasta Saut‚  (v),9.25,"Choose 2: Penne Pasta, Tri-Colored Tortellini & Multigrain Spaghetti (v)  with both Marinara Sauce & Pesto Alfredo Sauce.  Saut‚ed selections to include: Grilled Mushrooms, Broccoli Florets, Roasted Vegetable Medley, Artichoke Hearts, Spinach, Served with Whole Wheat Garlic Bread",0,,,,
+
+90,HORS D_OEUVRES,CHEF DISPLAY,Savory Creamy Risotto (v),13.75,"with saut‚ed selections to include: Wild Mushrooms with Fresh Thyme, Parmesan Cheese, Grilled Asparagus, Saffron Shrimp, Artichoke Hearts",0,,,,
+
+91,HORS D_OEUVRES,CHEF DISPLAY,Mashed Potato Martini Bar,9.75,"Yukon Gold & Sweet Potatoes (v), served in Martini Glasses with toppings to include: Caramelized Onions, Apple Wood Smoked Bacon, Snipped Chives, Cheddar Cheese, Savory Gravy, Saut‚ed Mushrooms, Sour Cream",0,,,,
+
+92,BUDGET,BUDGET HOT ENTREES,Southwest Egg White Frittata,50,Egg Whites baked with Salsa & Scallions served with Cheddar Cheese on the side,0,,,,
+
+93,BUDGET,BUDGET HOT ENTREES,Brown Rice with Garbanzo Beans,38,Brown Rice tossed with Saut‚ed Garbanzo Beans with Garlic & Tomatoes,0,,,,
+
+94,BUDGET,BUDGET HOT ENTREES,Grilled Chicken & Mediterranean Relish,56,"Marinated Chicken topped with Tomato, Onions & Basil",0,,,,
+
+95,BUDGET,BUDGET HOT ENTREES,Southwestern Black Bean Patty,51,with Pico de Gallo ,0,,,,
+
+96,BUDGET,BUDGET HOT ENTREES,Boneless Chicken Cacciatore,47,Chicken simmered in Marinara Sauce with Onions & Peppers,0,,,,
+
+97,BUDGET,BUDGET HOT ENTREES,Multigrain Pasta Primavera,46,"Tossed with Olive Oil, Garlic, Broccoli & Red Peppers",0,,,,
+
+98,BUDGET,BUDGET HOT ENTREES,Baked Macaroni & Cheese,47.5,topped with Toasted Breadcrumbs,0,,,,
+
+99,BUDGET,BUDGET HOT ENTREES,Vegetable Lasagna,55,Noodles layered with Seasonal Vegetables & B‚chamel Sauce,0,,,,
+
+100,BUDGET,BUDGET SALADS,Fresh Garden Salad,32,"Crisp Romaine Lettuce with Shredded Carrots and Red Cabbage, Cherry Tomatoes, Cucumbers with Chef_s Choice dressing",0,,,,
+
+101,BUDGET,BUDGET SALADS,Caesar Salad ,27,"Romaine Lettuce, Croutons & Parmesan Cheese with Creamy Caesar Dressing",0,,,,
+
+102,BUDGET,BUDGET SALADS,"White Bean, Tuna & Tomato Salad ",36.5,"Albacore Tuna, White Beans, Diced Tomato & Fresh Basil",0,,,,
+
+103,BUDGET,BUDGET SALADS,Fiesta Brown Rice Salad ,27,"Steamed Brown Rice with Black Beans, Peppers & Onions served with Tortilla Chips",0,,,,
+
+104,BUDGET,BUDGET SALADS,Chef_s Grain Salad of the Day,30,A selection of Grains with Vegetables & Seasonings,0,,,,
+
+105,BUDGET,BUDGET EXTRAS,Chef_s Vegetable Medley,30,,0,,,,
+
+106,BUDGET,BUDGET EXTRAS,Brown Basmati Rice,20,,0,,,,
+
+107,BUDGET,BUDGET EXTRAS,Primavera Pasta Salad,17.5,,0,,,,
+
+108,BUDGET,BUDGET EXTRAS,Creamy Coleslaw,15,,0,,,,
+
+109,BUDGET,BUDGET EXTRAS,Red Bliss Potato Salad,17.5,,0,,,,
+
+110,BUDGET,BUDGET EXTRAS,Egg Noodles with Olive Oil & Parsley,20,,0,,,,
+
+111,BUDGET,BUDGET EXTRAS,Grilled Chicken,28,,0,,,,
+
+112,BUDGET,BUDGET EXTRAS,Tofu,20,,0,,,,
+
+113,BUDGET,BUDGET SNACKS,Carrot Sticks with Ranch Dressing (serves 10),12.5,,0,,,,
+
+114,BUDGET,BUDGET SNACKS,Sliced Cucumbers with Hummus Dip (serves 10),12.5,,0,,,,
+
+115,BUDGET,BUDGET SNACKS,Tea Cookies (1 dozen),6,,0,,,,
+
+116,BUDGET,BUDGET SNACKS,Mini Brownie Squares (1 dozen),4.5,,0,,,,
+
+117,BUDGET,BUDGET SNACKS,Mini Lemon Squares (1 dozen),6,,0,,,,
+
+118,BUDGET,BUDGET SNACKS,Mini Cup Cakes (1 dozen),12,,0,,,,
+
+119,BUDGET,BUDGET SNACKS,NIBBLERS (1 dozen),13,"Tiny Twist Pretzels, Baked Lay_s, SmartFood Popcorn, & Assorted Granola Bars",0,,,,
+
+120,BUDGET,BUDGET BEVERAGE,"
+
+BOX OF JAVA-TO-GO",15,"Regular Coffee only, includes sweeteners & creamers (serves 10)",0,,,,
+
